@@ -1,5 +1,4 @@
-# About Me
-- 🐦‍🔥 **A wild Phoenix has appeared!** 🐦‍🔥
+#### 🐦‍🔥 A wild Phoenix has appeared! 🐦‍🔥
 - …on [Wikipedia](https://en.wikipedia.org/wiki/User:PhoenixAsh89), the [Minecraft Wiki](https://minecraft.wiki/w/User:PhoenixAsh89), [Sketchfab](https://sketchfab.com/.phoenix_), and elsewhere online. You'll never know where I'll infect the internet next…
 - My repos are mainly ***Minecraft***-related things, such as my add-ons and forks from the Minecraft Wiki and the Better on Bedrock Wiki
 - 2FA is so annoying
